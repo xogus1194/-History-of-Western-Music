@@ -10,6 +10,7 @@ This is my first GitHub repository.
 
 This work is *Beethoven's Piano Sonata No. 14 in C♯ minor, Op. 27, No. 2*, commonly known as the **"Moonlight Sonata**."
 
+<img src="L.v.Beethoven.png">
 
 Beethoven arrived in Vienna in 1792 at the age of 22, where he quickly gained recognition as an outstanding pianist and a promising composer.
 
@@ -23,3 +24,5 @@ Unlike a typical sonata form that two themes are presented in the exposition, th
 Moreover, there are no complex techniques such as Beethoven's characteristic sudden changes in tempo or modulations.
 
 Thus, due to the simple structure of the first movement, it is essential to truly feel and express the musical ideas above all else.
+Beethoven included the instruction **"sostenuto"** in this piece, meaning that the notes should be played as expressively as possible, allowing them to be sustained fully.
+Additionally, he added the comment in Italian: **"Si deve suonare tutto questo pezzo delicatissimamente e senza sordini,"** which means *"One must play this entire piece very delicately and without damper."*
