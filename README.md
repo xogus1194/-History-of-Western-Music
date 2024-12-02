@@ -5,7 +5,7 @@
 
 
 - [Timeline](#timeline)
-- [Piano Sonata No. 14 in C# minor, Op. 27, No. 2 ("Moonlight Sonata")](#piano-sonata-no-14-in-c#-minor-op-27-no-2-moonlight-sonata)
+- [Fantasie in C Major Op.17](#fantasie-in-c-major-Op.17)
 - [Influences](#influences)
 - [Significance](#significance)
 - [Performance and Reception](#performance-and-reception)
@@ -33,31 +33,40 @@
 | 1854 | Mental breakdown | Suffers a mental breakdown and is institutionalized in Endenich.
 | 1856 | Death | Dies on July 29 in Endenich, Germany.
 
-
 ---
+
 ## Fantasie in C Major Op.17
 
-<img src="Moonlight_Sonata_I.png" wirth="400" height="150">
+<img src= fantasie.png wirth="2800" height="350">
 
-This work is *Beethoven's Piano Sonata No. 14 in C♯ minor, Op. 27, No. 2*, commonly known as the **"Moonlight Sonata**."
+This work is *Schumann Fantasie in C Major Op.17 I.Durchaus phantastisch und leidenschaftlich vorzutragen*.
 
-In 1801, the year "Moonlight Sonata" was composed, Beethoven's hearing problems worsened, and his relationship with Giulietta Guicciardi faced difficulties. These personal struggles profoundly influenced his music, and "Moonlight Sonata" is one of the works where his emotions and turmoil are vividly expressed, earning it much admiration.
+In 1836, the year "Fantasie in C Major Op.17" was composed during a time of personal and emotional turmoil in Schumann’s life, particularly influenced by his love for the pianist Clara Wieck. At the time, Clara's father, Friedrich Wieck, strongly opposed their relationship, which created significant tension and emotional strain for Schumann. This work was originally intended to be dedicated to Clara Wieck, but due to opposition from the Leipzig publisher Kistner, the movement titles were removed, and it was ultimately dedicated to Franz Liszt.
 
-The title "Moonlight" was not given by Beethoven himself. It originated five years after his death when *Ludwig Rellstab* described the first movement as resembling **"a boat on the Lake Lucerne illuminated by moonlight."**
 
 ## Movement Breakdown
 
-**1st Movement – Adagio sostenuto**
+**I.Durchaus phantastisch und leidenschaftlich vorzutragen**
+The first movement opens with a somber, introspective theme, marked by a deep sense of longing and emotional restraint. Schumann instructs the pianist to play "inflexibly," which indicates a rigid, almost mournful character. The movement features long, lyrical lines and expansive chords that convey a sense of both yearning and reverence.
 
-The first movement opens in C♯ minor and creates a deeply introspective and contemplative atmosphere. The movement deviates from traditional sonata form by using a single theme that is continuously varied, rather than presenting multiple contrasting themes. There are no dramatic tempo changes or modulations, which sets this movement apart from many of Beethoven's other works.
+*This piece is the most passionate movement of the music I have composed. This movement is a song of deep sorrow for you. -R.Schmann* 
 
-The instruction *"sostenuto"* (sustained) emphasizes that the notes should be played with deep expressiveness, allowing them to resonate fully. Beethoven further directs that the piece should be played *"Si deve suonare tutto questo pezzo delicatissimamente e senza sordini"* (very delicately and without the damper), which indicates a need for a soft, clear, and resonant sound. The music's simplicity allows the performer to focus entirely on expressing the deep emotions embedded in the piece, making this movement feel intimate, almost like an inner monologue.
+The fact that Schumann himself said this highlights that the first movement should be played with great passion. Also instead of removing the movement titles, a poem by Schlegel was included at the beginning.
 
-**2nd Movement – Allegretto**
+*Durch alle Töne tönet*
 
-The second movement contrasts sharply with the first. It is lighter, more playful, and offers a brief respite from the intensity of the opening. This movement provides a sense of balance and acts as a kind of emotional relief before the stormy finale of the third movement. The clarity and charm of the Allegretto offer a moment of brightness, though it still retains an undercurrent of the piece's overall melancholy.
+*Im bnnteu Erdentranm*
 
-**3rd Movement – Presto agitato**
+*Ein leiser Ton gezogeu*
+
+*Für den der heimlieh lansehet*
+
+
+**II.Massig. Durchaus energisch**
+
+The second movement begins with a march-like rhythm. However, it should not be played in a fanfare-like manner; instead, it should convey a sense of pure devotion and the smile of hope directed towards Clara. Also the movement, originally conceived by Schumann with the title "Arc de Triomphe," perfectly matches this theme, with energetic harmonies forming the central motif.
+
+**III.Langsam getragen. Durchweg leise zu halten**
 
 The third movement brings the sonata to a dramatic and intense conclusion. Marked Presto agitato, this movement is fast, forceful, and filled with energy. It contrasts with the meditative calm of the first movement and the lightness of the second, creating a sense of resolution and finality. The turbulent nature of the movement displays Beethoven's technical brilliance and emotional depth, offering a compelling and vigorous conclusion to the sonata.
 
