@@ -15,29 +15,27 @@
 
 ## Timeline
 
-<img src="L.v.Beethoven.png" width="300" height="400">
+<img src=R.Schumann.png width="300" height="400">
 
-**Ludwig van Beethoven** (1770-1827) is one of the most significant composers in the history of Western classical music.Despite his revolutionary contributions, his works were not always fully appreciated during his lifetime. Known for pushing the boundaries of classical form and expression, Beethoven's music reflects a deep emotional intensity, often born out of personal struggle. His later works, in particular, are characterized by a profound emotional depth and innovative approach to form.
+**Robert Schumann** (1810-1856) is one of the most significant composers in the history of Western classical music. He is known for his piano works, orchestral compositions, and chamber music, often blending lyrical expression with innovative harmonic structures. Also, Schumann often used descriptive titles related to literary ideas and thanks to the advanced piano techniques, sought effective sound and tone by employing a wide range of pedaling. Moreover, as Schumann was a pianist, he had a deep understanding of the piano's capabilities and expanded the role of the left hand, thereby extending its range.
 
-*"Beethoven’s music activates fear, awe, horror, and suffering, awakening that “infinite longing” that defines the essence of Romanticism."(Hoffmann, 1813)*
+
 
 | Year | Event | Description                                                                                                 | Youtube |
 | ---- | ----- | ----------------------------------------------------------------------------------------------------------- | ------- |
-| 1770 | Birth | Born on December 17th in Bonn, Electorate of Cologne (modern-day Germany).
-| 1792 | Moves to Vienna | Moves to Vienna permanently to study with Joseph Haydn.
-| 1795 | First public | First public performance in Vienna, showcasing his piano skills.
-| 1800 | Composes symphony | Composes his first symphony, Symphony No. 1 in C major.
-| 1801 | Hearing loss | Begins to experience the first signs of hearing loss.
-| 1802 | Heiligenstadt Testament | Composes the "Heiligenstadt Testament," a letter expressing his despair over his deafness.
-| 1812 | Composes sonata | Composes the "Waldstein" Piano Sonata and the "Appassionata" Sonata.
-| 1815 | Deaf | His hearing deteriorates significantly, and he becomes almost completely deaf.
-| 1824 | Symphony No.9 Premiere | Premieres Symphony No. 9, including the famous "Ode to Joy" chorus.
-| 1827 | Death |Dies on March 26th in Vienna at the age of 56.
+| 1810 | Birth | Born on June 8 in Zwickau, Germany.
+| 1830 | Full-time | Decides to pursue music full-time, focusing on piano and composition.
+| 1834 | Found | Co-founds the music journal Neue Zeitschrift für Musik.
+| 1839 | Marriage | Marries Clara Wieck, a renowned pianist, despite opposition from her father.
+| 1840 | Composes lieder | Composes over 100 lieder (songs) in a highly productive year.
+| 1841 | Composes symphony | Composes his first symphony, Spring Symphony.
+| 1843 | Director | Becomes the director of the Leipzig Conservatory.
+| 1854 | Mental breakdown | Suffers a mental breakdown and is institutionalized in Endenich.
+| 1856 | Death | Dies on July 29 in Endenich, Germany.
 
-This piece was directly influenced by Beethoven's piano sonatas, especially [Piano Sonata No.26](#beethoven-sonata-26.md) (This is not true.)
 
 ---
-## Piano Sonata No. 14 in C# minor, Op. 27, No. 2 
+## Fantasie in C Major Op.17
 
 <img src="Moonlight_Sonata_I.png" wirth="400" height="150">
 
